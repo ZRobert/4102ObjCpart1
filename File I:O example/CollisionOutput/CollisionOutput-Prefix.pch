@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CollisionOutput' target in the 'CollisionOutput' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
